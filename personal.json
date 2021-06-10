@@ -1,0 +1,172 @@
+[
+    {
+        "clase": "docente",
+        "atributos": {
+            "cuil": "12-454654545-12",
+            "apellido": "roman",
+            "nombre": "riquelme",
+            "basico": "10000000",
+            "antiguedad": "3",
+            "carrera": "exclusiva",
+            "cargo": "3999",
+            "catedra": ""
+        }
+    },
+    {
+        "clase": "investigador",
+        "atributos": {
+            "cuil": "23-330451254-9",
+            "apellido": "Wayne",
+            "nombre": "Bruce",
+            "basico": 50000,
+            "antiguedad": 4,
+            "area": "quimica",
+            "tipo": "quimicaxd"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "17-25420087-3",
+            "apellido": "Murdock",
+            "nombre": "Matt",
+            "basico": 55000,
+            "antiguedad": 7,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "matematica",
+            "area": "quimica",
+            "tipo": "interna",
+            "categoria": "I",
+            "extra": 10000
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "17-189722212-4",
+            "apellido": "Kent",
+            "nombre": "Clark",
+            "basico": 600000,
+            "antiguedad": 7,
+            "carrera": "LCI",
+            "cargo": "simple",
+            "catedra": "Programacion",
+            "area": "quimica",
+            "tipo": "Interna",
+            "categoria": "II",
+            "extra": 7000
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "14-49784123-1",
+            "apellido": "Cuill",
+            "nombre": "Peter",
+            "basico": 45000,
+            "antiguedad": 10,
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Sistemas",
+            "area": "Digitales",
+            "tipo": "lol",
+            "categoria": "V",
+            "extra": 10000
+        }
+    },
+    {
+        "clase": "docente",
+        "atributos": {
+            "cuil": "17-1245848-3",
+            "apellido": "Clint",
+            "nombre": "Barton",
+            "basico": 50000,
+            "antiguedad": 2,
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Programacion"
+        }
+    },
+    {
+        "clase": "docente",
+        "atributos": {
+            "cuil": "15-1234564564-7",
+            "apellido": "Daiana",
+            "nombre": "Maxiloff",
+            "basico": 50000,
+            "antiguedad": 5,
+            "carrera": "LCC",
+            "cargo": "exclusivo",
+            "catedra": "Sistemas digitales"
+        }
+    },
+    {
+        "clase": "investigador",
+        "atributos": {
+            "cuil": "18-105462468-8",
+            "apellido": "Parker",
+            "nombre": "Peter",
+            "basico": 45000,
+            "antiguedad": 5,
+            "area": "fisica",
+            "tipo": "Nuclear"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "18-215412424-6",
+            "apellido": "Wilson",
+            "nombre": "Wade",
+            "basico": 49000,
+            "antiguedad": 8,
+            "carrera": "LCI",
+            "cargo": "exclusivo",
+            "catedra": "Matematica",
+            "area": "basica",
+            "tipo": "CONICET",
+            "categoria": "II",
+            "extra": 12000
+        }
+    },
+    {
+        "clase": "apoyo",
+        "atributos": {
+            "cuil": "11-32405242-1",
+            "apellido": "Rogers",
+            "nombre": "Steve",
+            "basico": 42312,
+            "antiguedad": 3,
+            "categoria": 12
+        }
+    },
+    {
+        "clase": "apoyo",
+        "atributos": {
+            "cuil": "2-12342153-3",
+            "apellido": "Stark",
+            "nombre": "Tony",
+            "basico": 30000,
+            "antiguedad": 5,
+            "categoria": 21
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "12-42141235-4",
+            "apellido": "James",
+            "nombre": "Logan",
+            "basico": 51000,
+            "antiguedad": 8,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "estrucutras",
+            "area": "fisica",
+            "tipo": "Interna",
+            "categoria": "IV",
+            "extra": 9000
+        }
+    }
+]
